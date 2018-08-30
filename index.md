@@ -1,6 +1,6 @@
 # Atreyee Datta's first CS193 Lab
 
-###Favorite things about CS193
+Favorite things about CS193
 - being able to work in a lab
 - the teaching assitants are nice
 - the workdats are spread out
